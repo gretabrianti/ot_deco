@@ -1,0 +1,46 @@
+hydra:
+  run:
+    dir: "/Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation"
+
+
+save_path: "/Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_8"
+path: "/Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation"
+
+device: "cpu"
+
+multi_clf: "/Users/gretabrianti/Work/decorrelation_methods2/ot_input/output_zenodo.h5"
+
+cvx_dim: 1
+noncvx_dim: 1
+
+target_distribution: base_uniform # base or source have to add uniform/normal/dirichlet/base_normal
+train_args:
+  nepochs: 100
+  lr_f: 0.001
+  lr_g: 0.001
+  epoch_size: 8 # number of iteration per epoch
+  datatype: "" # prob
+  f_per_g: 4
+  g_per_f: 10
+  burn_in: 50
+  batch_size: 1024
+  learning_rate_scheduler: true
+
+
+model_args:
+  cvx_dim: ${cvx_dim}
+  noncvx_dim: ${noncvx_dim}
+  nonconvex_activation: "softplus_zeroed" # quadlrelu
+  convex_activation: "softplus_zeroed" #quadlrelu
+  correction_trainable: false
+  first_act_sym: "no" #"symsoftplus"
+  logit: false
+  nonconvex_layersizes: 128
+  convex_layersizes: 1024
+  n_layers: 10
+  device: ${device}
+  verbose: true
+  noncvx_norm: standard_first
+  cvx_norm: ""
+
+

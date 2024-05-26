@@ -1,0 +1,21 @@
+# deep learning
+torch
+nflows
+
+# data science / plotting
+numpy
+matplotlib
+scipy
+scikit-learn
+pandas
+
+# wandb/hydra
+omegaconf
+hydra-core
+
+# misc
+h5py
+jupyter
+tqdm
+jupyterlab
+pyrootutils

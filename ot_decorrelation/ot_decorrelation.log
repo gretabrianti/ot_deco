@@ -1,0 +1,90 @@
+[2024-04-11 09:35:42,658][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo
+[2024-04-11 09:35:42,766][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 09:35:42,766][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 09:36:05,355][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo
+[2024-04-11 09:36:05,362][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 09:36:05,362][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 11:13:01,346][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 11:13:01,356][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 11:13:01,356][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 11:30:13,361][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 11:30:13,369][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 11:30:13,369][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 11:31:16,483][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 11:31:16,490][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 11:31:16,490][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 11:43:33,137][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 11:43:33,145][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 11:43:33,145][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 11:43:52,670][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 11:43:52,678][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 11:43:52,679][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 11:43:59,871][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 11:43:59,879][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 11:43:59,879][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 11:44:16,417][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 11:44:16,426][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 11:44:16,426][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 15:08:29,462][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 15:08:29,485][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 15:08:29,485][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 15:44:34,219][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 15:44:34,237][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 15:44:34,237][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 15:50:29,248][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 15:50:29,260][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 15:50:29,260][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 16:42:10,749][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 16:42:10,760][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 16:42:10,760][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 16:43:13,008][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 16:43:13,016][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 16:43:13,016][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 16:46:17,171][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 16:46:17,179][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 16:46:17,179][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 16:46:36,444][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 16:46:36,451][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 16:46:36,451][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-11 16:47:09,913][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_zenodo2
+[2024-04-11 16:47:09,921][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-11 16:47:09,921][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-12 08:23:18,867][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_0
+[2024-04-12 08:23:18,903][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-12 08:23:18,903][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-12 08:53:59,298][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_1
+[2024-04-12 08:53:59,334][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-12 08:53:59,334][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-12 09:14:16,325][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_2
+[2024-04-12 09:14:16,345][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-12 09:14:16,345][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-14 16:10:10,007][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_3
+[2024-04-14 16:10:10,051][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-14 16:10:10,051][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 09:28:59,207][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_0
+[2024-04-15 09:28:59,216][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 09:28:59,217][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 11:34:49,416][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_4
+[2024-04-15 11:34:49,430][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 11:34:49,430][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 12:23:46,027][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_5
+[2024-04-15 12:23:46,035][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 12:23:46,035][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 15:13:42,206][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_6
+[2024-04-15 15:13:42,214][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 15:13:42,215][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 16:15:52,145][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_7
+[2024-04-15 16:15:52,160][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 16:15:52,160][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 20:42:42,956][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_7
+[2024-04-15 20:42:42,975][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 20:42:42,976][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 22:17:10,218][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_8
+[2024-04-15 22:17:10,237][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 22:17:10,237][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 22:18:55,552][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_8
+[2024-04-15 22:18:55,561][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 22:18:55,561][__main__][INFO] - Test size: torch.Size([99000, 2])
+[2024-04-15 23:01:17,659][__main__][INFO] - Saving at /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_8
+[2024-04-15 23:01:17,678][__main__][INFO] - Training size: torch.Size([231000, 2])
+[2024-04-15 23:01:17,678][__main__][INFO] - Test size: torch.Size([99000, 2])
