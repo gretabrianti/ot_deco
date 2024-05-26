@@ -1,0 +1,54 @@
+lr_f: 0.001
+lr_g: 0.001
+loss_li_ratio: 0
+loss_wasser_ratio: 1
+f_per_g: 4
+g_per_f: 10
+reverse_ratio: 1
+grad_clip:
+  f: 5
+  g: 5
+grad_norm:
+  f: 0
+  g: 0
+epoch_size: 8
+burn_in: 50
+optimizer_args_f:
+  lr: 0.001
+  betas:
+  - 0.0
+  - 0.9
+optimizer_args_g:
+  lr: 0.001
+  betas:
+  - 0.0
+  - 0.9
+sch_args_g:
+  T_max: 800
+  eta_min: 5.0e-05
+sch_args_f:
+  T_max: 800
+  eta_min: 5.0e-05
+outdir: /Users/gretabrianti/Work/decorrelation_methods2/ot_decorrelation/output_1
+log:
+  steps_f:
+  - 0
+  steps_g:
+  - 0
+device: cpu
+verbose: false
+noncvx_dim: 1
+cvx_dim: 1
+distnames:
+- dist_0
+condsnames:
+- conds_0
+dense_net_args:
+  input_dim: 2
+  'N': 64
+  n_layers: 4
+  activation_str: leaky_relu
+  output_size: 1
+  device: cpu
+  sigmoid: false
+  adam: true

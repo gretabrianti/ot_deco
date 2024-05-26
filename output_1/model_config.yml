@@ -1,0 +1,14 @@
+cvx_dim: ${cvx_dim}
+noncvx_dim: ${noncvx_dim}
+nonconvex_activation: softplus_zeroed
+convex_activation: softplus_zeroed
+correction_trainable: false
+first_act_sym: 'no'
+logit: false
+nonconvex_layersizes: 8
+convex_layersizes: 64
+n_layers: 4
+device: ${device}
+verbose: true
+noncvx_norm: standard_first
+cvx_norm: ''
